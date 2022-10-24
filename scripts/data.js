@@ -30,5 +30,32 @@ const data = {
       prereqs: [159],
       credits: 3,
     },
+    {
+      prefix: "CS",
+      number: 445,
+      title: "Machine Learning",
+      url: "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=260659",
+      desc: "An introduction to the field of machine learning. Explores key problems and algorithms in machine learning from both a theoretical and an applied perspective. Specific topics include supervised and unsupervised learning, anomaly detection, text mining and experimental design.",
+      prereqs: [327],
+      credits: 3,
+    },
+    {
+      prefix: "CS",
+      number: 444,
+      title: "Artificial Intelligence",
+      url: "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=257224",
+      desc: "Students will study the history, premises, goals, social impact and philosophical implications of artificial intelligence. Students will study heuristic algorithms for large state spaces and learn to develop recursive and non-deterministic algorithms.",
+      prereqs: [],
+      credits: 3,
+    },
+    {
+      prefix: "CS",
+      number: 354,
+      title: "Introduction to Autonomous Robotics",
+      url: "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=257223",
+      desc: "A hands-on introduction to programming autonomous mobile robots. The focus of this course is on designing robotic systems that navigate independently in complex environments. Specific topics include localization, mapping, kinematics, path planning and computer vision.",
+      prereqs: [],
+      credits: 3,
+    }
   ],
 };
